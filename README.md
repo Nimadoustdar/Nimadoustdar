@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Nimadoustdar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello and Welcome 
+- 👀  I'm Nima Doustdar
+- 🌱 I'm constantly learning new skills and striving for progress
 
-<!---
-Nimadoustdar/Nimadoustdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
