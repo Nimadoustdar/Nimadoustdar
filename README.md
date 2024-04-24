@@ -5,23 +5,23 @@ Welcome to my frontend developer portfolio repository! Here, you'll find a colle
 
 1. Polytiz
    - Description: Dynamic website showcasing proficiency in HTML, CSS, jQuery, and Bootstrap.
-   - [Link to Polytiz Project](#)
+   - [[Link to Polytiz Project](https://polytiz.ir/)](#)
 
 2. Alfamonte
    - Description: Sleek web solution demonstrating skills in HTML, CSS, and Bootstrap.
-   - [Link to Alfamonte Project](#)
+   - [[Link to Alfamonte Project](https://alfamonte.ir/)](#)
 
 3. Sivanexchange
    - Description: Modern platform built with Next.js, React, and Bootstrap.
-   - [Link to Sivanexchange Project](#)
+   - [[Link to Sivanexchange Project](https://sivanexchange.com/en)](#)
 
 4. Bonyadonline
    - Description: Interactive site developed with HTML, CSS, jQuery, and Bootstrap.
-   - [Link to Bonyadonline Project](#)
+   - [[Link to Bonyadonline Project](https://bonyadonline.com/)](#)
 
 5. Rahdoon
    - Description: Engaging web presence featuring HTML, CSS, jQuery, and Bootstrap.
-   - [Link to Rahdoon Project](#)
+   - [[Link to Rahdoon Project](https://rahdoon.com/)](#)
 
 6. Antbuildz
    - Description: Innovative website powered by Next.js, React, and Bootstrap.
@@ -34,8 +34,8 @@ I am a passionate frontend developer with a keen eye for design and a strong und
 ## Contact Me
 
 If you're interested in collaborating on a project or have any inquiries, feel free to reach out to me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+- Email: [your.email@example.com](mailto:nimadoustdar99@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nima-doustdar-321567182)
+- Portfolio: [Your Portfolio Website]([https://www.yourportfolio.com](https://nimadoustdar.netlify.app/))
 
 Thank you for visiting my repository! I look forward to connecting with you.
