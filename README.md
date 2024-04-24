@@ -36,6 +36,6 @@ I am a passionate frontend developer with a keen eye for design and a strong und
 If you're interested in collaborating on a project or have any inquiries, feel free to reach out to me:
 - Email: [my Email](mailto:nimadoustdar99@gmail.com)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nima-doustdar-321567182)
-- Portfolio: [My Portfolio Website](https://www.yourportfolio.com](https://nimadoustdar.netlify.app/))
+- Portfolio: [My Portfolio Website](https://nimadoustdar.netlify.app/)
 
 Thank you for visiting my repository! I look forward to connecting with you.
