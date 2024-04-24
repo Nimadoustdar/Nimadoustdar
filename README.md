@@ -1,10 +1,7 @@
-# Frontend Developer Portfolio
-
-![Frontend Developer Portfolio](logo.png)
 
 Welcome to my frontend developer portfolio repository! Here, you'll find a collection of projects that demonstrate my expertise in HTML, CSS, and other frontend technologies.
 
-## Projects
+##My Projects
 
 1. Polytiz
    - Description: Dynamic website showcasing proficiency in HTML, CSS, jQuery, and Bootstrap.
@@ -28,7 +25,7 @@ Welcome to my frontend developer portfolio repository! Here, you'll find a colle
 
 6. Antbuildz
    - Description: Innovative website powered by Next.js, React, and Bootstrap.
-   - [Link to Antbuildz Project](#)
+   - [[Link to Antbuildz Project](https://antbuildz.com/)](#)
 
 ## About Me
 
